@@ -1,2 +1,2 @@
 # uruguayan-dictionary
-Platform created to make more easy undestanding about uruguayan words and common phrases.
+Platform created to provide an easy understanding about uruguayan words and common phrases.
